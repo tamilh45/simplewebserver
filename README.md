@@ -91,7 +91,8 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ![Screenshot 2024-11-12 232515](https://github.com/user-attachments/assets/67a1ac98-0503-4f18-9ccb-d3ab463dbf29)
-![Screenshot 2024-11-12 231816](https://github.com/user-attachments/assets/bbcd4536-5077-4830-80cb-beae60d0fafa)
+![Screenshot 2024-11-12 233545](https://github.com/user-attachments/assets/0a0a543a-96f1-4959-8d98-5fff6606c228)
+
 
 
 ## RESULT:
